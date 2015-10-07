@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-kinect",
+  "version": "0.0.1",
+  "description": "Cordova Kinnect Plugin",
+  "cordova": {
+    "id": "cordova-plugin-kinect",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/systembugtj/cordova-plugin-kinect.git"
+  },
+  "keywords": [
+    "cordova",
+    "Kinect",
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "albert.lee.cn@gmail.com",
+  "license": "Apache 2.0"
+}
